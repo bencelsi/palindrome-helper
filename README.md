@@ -1,2 +1,2 @@
 # palindrome-helper
-A program that gives
+A program that helps in writing palindromes
